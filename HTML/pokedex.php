@@ -30,6 +30,7 @@
             die("Connection failed: " . $conn->connect_error);
             }
 
+<<<<<<< HEAD
             $sql = "SELECT dex_num, poke_name, poke_move_name, poke_type1, poke_type2, poke_move_name, poke_move_type, poke_move_dmg FROM dex_kanto ORDER BY dex_num";
             $result = $conn->query($sql);
             
@@ -47,6 +48,8 @@
                 }
                 $conn->close();
 
+=======
+>>>>>>> 74ecc2744cb4311b4187b065f5f4129b9df506fd
         ?>
 
 
