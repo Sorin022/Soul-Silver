@@ -20,7 +20,7 @@
             <div class="topnav">
                 <a class= "active" href="pokemon.html"> Home</a>
                 <a href="pokedex.php"> Pokedex</a>
-                <a href="BattleSim.html"> Battle Simulator</a>
+                <a href="BattleSim.php"> Battle Simulator</a>
                 <a href="Feedback.html"> Feedback</a>
                 <a href="Disclaimer.html"> Disclaimer </a>
                 <a href="mailto: Collin.Drake1@marist.edu"> Contact Us</a>
